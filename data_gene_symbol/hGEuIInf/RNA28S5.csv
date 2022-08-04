@@ -1,0 +1,14 @@
+entrezID,gene_symbol,probe_seq,biotype,bioproject,res_design,host_type,virus_strain,M.O.I,H.P.I,log2FoldChange,t,B,pvalue,padj,baseMean,lfcSE,stat
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,12,1.086039008,NA,NA,0.001412579,0.016919188,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,18,-0.828948071,NA,NA,0.014872753,0.043989072,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,24,-0.132459958,NA,NA,0.697082481,0.829520697,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,3,0.174542935,NA,NA,0.608222546,0.805418248,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,6,-0.544252929,NA,NA,0.110558413,1,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,12,1.457585764,NA,NA,0.000420319,0.002572723,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,18,1.057609074,NA,NA,0.010482061,0.030858271,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,3,0.492906692,NA,NA,0.233247952,0.911449424,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,6,1.718955281,NA,NA,3.21e-05,0.001014803,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,12,1.718030741,NA,NA,1.29e-05,3.37e-05,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,18,2.516306665,NA,NA,1.77e-10,6.86e-10,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,3,-0.010706093,NA,NA,0.978274803,1,NA,NA,NA
+100008589,RNA28S5,NA,rRNA,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,6,1.668355458,NA,NA,2.63e-05,0.000118634,NA,NA,NA
