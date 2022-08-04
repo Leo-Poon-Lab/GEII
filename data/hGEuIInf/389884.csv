@@ -1,0 +1,6 @@
+entrezID,gene_symbol,probe_seq,biotype,bioproject,res_design,host_type,virus_strain,M.O.I,H.P.I,log2FoldChange,t,B,pvalue,padj,baseMean,lfcSE,stat
+389884,PA2G4P1,NA,pseudogene,PRJNA557257,A/Panama/2007/1999 (H3N2) vs. mock infection,lung explants,A/Panama/2007/1999 (H3N2),1E5 PFU/mL,24,NA,NA,NA,NA,NA,0,NA,NA
+389884,PA2G4P1,NA,pseudogene,PRJNA559077,A/swine/Zhejiang/04 (H3N2) vs. mock infection,A549,A/swine/Zhejiang/04 (H3N2),10,24,0.946510433533095,NA,NA,0.801227134755322,0.870062861276368,0.755285838459781,3.75958510674201,0.251759278393707
+389884,PA2G4P1,NA,pseudogene,PRJNA559077,A/Hangzhou/1/2013 (H7N9) vs. mock infection,A549,A/Hangzhou/1/2013 (H7N9),10,24,1.56322330280526,NA,NA,0.662126832611114,0.828799713337333,0.755285838459781,3.57734481459751,0.436978648640873
+389884,PA2G4P1,NA,pseudogene,PRJNA667475,A/WSN/1933 (H1N1) vs. mock infection,A549,A/WSN/1933 (H1N1),0.02,24,NA,NA,NA,NA,NA,0,NA,NA
+389884,PA2G4P1,NA,pseudogene,PRJNA795161,A/Oklahoma/447/2008 (H1N1) vs. mock infection,human bronchial epithelial cells (HBEC),A/Oklahoma/447/2008 (H1N1),N.A.,48,NA,NA,NA,NA,NA,0,NA,NA

@@ -1,0 +1,6 @@
+entrezID,gene_symbol,probe_seq,biotype,bioproject,res_design,host_type,virus_strain,M.O.I,H.P.I,log2FoldChange,t,B,pvalue,padj,baseMean,lfcSE,stat
+6959,TRBV21OR9-2,NA,V_segment_pseudogene,PRJNA557257,A/Panama/2007/1999 (H3N2) vs. mock infection,lung explants,A/Panama/2007/1999 (H3N2),1E5 PFU/mL,24,NA,NA,NA,NA,NA,0,NA,NA
+6959,TRBV21OR9-2,NA,V_segment_pseudogene,PRJNA559077,A/swine/Zhejiang/04 (H3N2) vs. mock infection,A549,A/swine/Zhejiang/04 (H3N2),10,24,2.97100556622362,NA,NA,0.074868148096346,0.119237635365582,5.26405864036977,1.66791304727179,1.78127125456768
+6959,TRBV21OR9-2,NA,V_segment_pseudogene,PRJNA559077,A/Hangzhou/1/2013 (H7N9) vs. mock infection,A549,A/Hangzhou/1/2013 (H7N9),10,24,3.50926749254024,NA,NA,0.0296634145434263,0.074539249740911,5.26405864036977,1.61378585162448,2.17455586750108
+6959,TRBV21OR9-2,NA,V_segment_pseudogene,PRJNA667475,A/WSN/1933 (H1N1) vs. mock infection,A549,A/WSN/1933 (H1N1),0.02,24,NA,NA,NA,NA,NA,0,NA,NA
+6959,TRBV21OR9-2,NA,V_segment_pseudogene,PRJNA795161,A/Oklahoma/447/2008 (H1N1) vs. mock infection,human bronchial epithelial cells (HBEC),A/Oklahoma/447/2008 (H1N1),N.A.,48,NA,NA,NA,NA,NA,0,NA,NA

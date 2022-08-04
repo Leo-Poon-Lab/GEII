@@ -1,0 +1,26 @@
+entrezID,gene_symbol,probe_seq,biotype,bioproject,res_design,host_type,virus_strain,M.O.I,H.P.I,log2FoldChange,t,B,pvalue,padj,baseMean,lfcSE,stat
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,12,1.129723088,NA,NA,0.000465902,0.007009392,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,18,0.716569645,NA,NA,0.028226525,0.07157854,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,24,1.671565255,NA,NA,9.21e-07,1.67e-05,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,3,0.029749935,NA,NA,0.93066171,0.979206951,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,6,-0.256028349,NA,NA,0.44735695,1,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,12,2.487999536,NA,NA,3.89e-11,1.2e-09,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,18,1.630879178,NA,NA,2.29e-05,0.000163956,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,3,-0.463877399,NA,NA,0.219543326,0.90338256,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,6,-0.256170665,NA,NA,0.50615718,0.838184571,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,12,2.466203911,NA,NA,2.65e-12,1.39e-11,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,18,1.996912813,NA,NA,8.37e-07,2.29e-06,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,3,0.05586025,NA,NA,0.867019075,1,NA,NA,NA
+26860,RNU1-13P,NA,pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,6,1.485866058,NA,NA,4.13e-05,0.000177484,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,12,3.602060369,NA,NA,1.7e-15,1.85e-14,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,18,3.457202993,NA,NA,1.09e-13,9.45e-13,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,3,0.365221953,NA,NA,0.455100333,1,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,6,0.873320877,NA,NA,0.097122287,0.228359798,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,12,5.601115674,NA,NA,3.76e-21,5.03e-20,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,18,4.500731783,NA,NA,1.51e-15,1e-14,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,3,1.018313969,NA,NA,0.029609123,0.22908506,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,6,4.289871447,NA,NA,1.01e-16,8.39e-16,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,12,4.037232549,NA,NA,1.29e-11,7.09e-11,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,18,4.414820516,NA,NA,2.11e-14,1.24e-13,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,3,0.99763848,NA,NA,0.057741394,0.905961295,NA,NA,NA
+26860,RNVU1-2,NA,pseudogene,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,6,2.671634875,NA,NA,3.4e-06,1.91e-05,NA,NA,NA

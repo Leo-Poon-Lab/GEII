@@ -1,0 +1,8 @@
+entrezID,gene_symbol,biotype,bioproject,res_design,host_type,stimulator,concentration,H.P.S,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,cell_type
+646875,RPL12P2,pseudogene,PRJNA474093,IFN-beta stimulation vs. mock stimulation,immortalized human hepatocytes PH5CH8,IFN-beta,N.A.,12,0.547635881531129,-2.52114486315928,3.20905406151644,-0.785634898892263,0.43208141276897,0.961473650102656,NA
+646875,RPL12P2,pseudogene,PRJNA565586,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,100U/ml,24,1.13930317989158,1.35292329824301,1.80159147444102,0.750960091361882,0.452676674083673,0.96308222060722,patient-derived GBM cell lines (PDGCLs)
+646875,RPL12P2,pseudogene,PRJNA667475,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,250U/ml,8,0.308839642794822,1.74846680235224,3.72240334062713,0.469714494200317,0.638559011053037,0.933906632050025,A549
+646875,RPL12P2,pseudogene,PRJNA739760,INF-alpha2 stimulation (with DMSO) vs. mock stimulation (with DMSO),NA,IFN-alpha,1000U/ml,16,0,NA,NA,NA,NA,NA,A549
+646875,RPL12P2,pseudogene,PRJNA768480,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,N.A.,N.A.,0,NA,NA,NA,NA,NA,A549
+646875,RPL12P2,pseudogene,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,0.645026841019283,0.0596160940402666,2.24982283042487,0.0264981283121784,0.978860026466721,1,sigmoid colon organoid
+646875,RPL12P2,pseudogene,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,0.645026841019283,0.0543682060959833,2.24326269198227,0.0242362190974346,0.980664187946134,1,sigmoid colon organoid

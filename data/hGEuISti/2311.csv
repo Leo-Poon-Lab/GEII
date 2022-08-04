@@ -1,0 +1,8 @@
+entrezID,gene_symbol,biotype,bioproject,res_design,host_type,stimulator,concentration,H.P.S,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,cell_type
+2311,FOXO1B,pseudogene,PRJNA474093,IFN-beta stimulation vs. mock stimulation,immortalized human hepatocytes PH5CH8,IFN-beta,N.A.,12,0,NA,NA,NA,NA,NA,NA
+2311,FOXO1B,pseudogene,PRJNA565586,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,100U/ml,24,0,NA,NA,NA,NA,NA,patient-derived GBM cell lines (PDGCLs)
+2311,FOXO1B,pseudogene,PRJNA667475,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,250U/ml,8,13.941447877394,-0.528585888806293,0.576176269705703,-0.917403087559094,0.358931455419822,0.773840550673987,A549
+2311,FOXO1B,pseudogene,PRJNA739760,INF-alpha2 stimulation (with DMSO) vs. mock stimulation (with DMSO),NA,IFN-alpha,1000U/ml,16,8.77362964270694,0.133239423644891,0.653350217072532,0.203932623213775,0.838406151112131,0.986418245486816,A549
+2311,FOXO1B,pseudogene,PRJNA768480,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,N.A.,N.A.,2.35960257046913,-4.51058307756312,2.34644363576908,-1.92230616955975,0.0545672441498089,0.147498436998168,A549
+2311,FOXO1B,pseudogene,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,0.226159639246262,1.9260254166276,4.03859237773344,0.476905128441938,0.633429679924771,1,sigmoid colon organoid
+2311,FOXO1B,pseudogene,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,0.226159639246262,0,4.0804558718035,0,1,1,sigmoid colon organoid

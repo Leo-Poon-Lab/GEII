@@ -1,0 +1,8 @@
+entrezID,gene_symbol,biotype,bioproject,res_design,host_type,stimulator,concentration,H.P.S,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,cell_type
+2162,F13A1,protein_coding,PRJNA474093,IFN-beta stimulation vs. mock stimulation,immortalized human hepatocytes PH5CH8,IFN-beta,N.A.,12,14.1260145213748,0.0410109017029093,0.557120884738962,0.0736122138413907,0.941318952268622,0.994998021163286,NA
+2162,F13A1,protein_coding,PRJNA565586,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,100U/ml,24,0.752003189775895,1.63696128078372,2.44404870858658,0.669774409582203,0.503001609146398,0.96308222060722,patient-derived GBM cell lines (PDGCLs)
+2162,F13A1,protein_coding,PRJNA667475,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,250U/ml,8,0.445853839544457,-2.32929607150211,3.20587725663677,-0.726570571808395,0.467489061156633,0.868433809331127,A549
+2162,F13A1,protein_coding,PRJNA739760,INF-alpha2 stimulation (with DMSO) vs. mock stimulation (with DMSO),NA,IFN-alpha,1000U/ml,16,0,NA,NA,NA,NA,NA,A549
+2162,F13A1,protein_coding,PRJNA768480,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,N.A.,N.A.,0,NA,NA,NA,NA,NA,A549
+2162,F13A1,protein_coding,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,4.08175226625438,-0.633665618584579,0.989515054881352,-0.640379967397827,0.5219256032998,1,sigmoid colon organoid
+2162,F13A1,protein_coding,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,4.08175226625438,-0.960974931810604,1.01031478363811,-0.951163882161724,0.341521189968419,1,sigmoid colon organoid

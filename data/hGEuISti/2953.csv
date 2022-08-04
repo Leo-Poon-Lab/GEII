@@ -1,0 +1,15 @@
+entrezID,gene_symbol,biotype,bioproject,res_design,host_type,stimulator,concentration,H.P.S,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,cell_type
+2953,GSTT2,transcribed_pseudogene,PRJNA474093,IFN-beta stimulation vs. mock stimulation,immortalized human hepatocytes PH5CH8,IFN-beta,N.A.,12,17.7340172009968,0.443416207705894,0.472320736817549,0.938803175769053,0.347831808104003,0.893803448713844,NA
+2953,GSTT2,protein_coding,PRJNA474093,IFN-beta stimulation vs. mock stimulation,immortalized human hepatocytes PH5CH8,IFN-beta,N.A.,12,17.7340172009968,0.443416207705894,0.472320736817549,0.938803175769053,0.347831808104003,0.893803448713844,NA
+2953,GSTT2,transcribed_pseudogene,PRJNA565586,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,100U/ml,24,9.91312414173474,0.442008647398961,0.634959938304502,0.696120527822956,0.486353351891467,0.96308222060722,patient-derived GBM cell lines (PDGCLs)
+2953,GSTT2,protein_coding,PRJNA565586,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,100U/ml,24,9.91312414173474,0.442008647398961,0.634959938304502,0.696120527822956,0.486353351891467,0.96308222060722,patient-derived GBM cell lines (PDGCLs)
+2953,GSTT2,transcribed_pseudogene,PRJNA667475,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,250U/ml,8,0,NA,NA,NA,NA,NA,A549
+2953,GSTT2,protein_coding,PRJNA667475,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,250U/ml,8,0,NA,NA,NA,NA,NA,A549
+2953,GSTT2,transcribed_pseudogene,PRJNA739760,INF-alpha2 stimulation (with DMSO) vs. mock stimulation (with DMSO),NA,IFN-alpha,1000U/ml,16,0,NA,NA,NA,NA,NA,A549
+2953,GSTT2,protein_coding,PRJNA739760,INF-alpha2 stimulation (with DMSO) vs. mock stimulation (with DMSO),NA,IFN-alpha,1000U/ml,16,0,NA,NA,NA,NA,NA,A549
+2953,GSTT2,transcribed_pseudogene,PRJNA768480,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,N.A.,N.A.,0,NA,NA,NA,NA,NA,A549
+2953,GSTT2,protein_coding,PRJNA768480,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,N.A.,N.A.,0,NA,NA,NA,NA,NA,A549
+2953,GSTT2,transcribed_pseudogene,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,1.37816149065224,-0.655373380767468,1.80012502249442,-0.364071035388043,0.715804965161428,1,sigmoid colon organoid
+2953,GSTT2,protein_coding,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,1.37816149065224,-0.655373380767468,1.80012502249442,-0.364071035388043,0.715804965161428,1,sigmoid colon organoid
+2953,GSTT2,transcribed_pseudogene,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,1.37816149065224,0.0235925447327687,1.7205957376962,0.0137118465516822,0.98905987215493,1,sigmoid colon organoid
+2953,GSTT2,protein_coding,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,1.37816149065224,0.0235925447327687,1.7205957376962,0.0137118465516822,0.98905987215493,1,sigmoid colon organoid
