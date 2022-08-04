@@ -54,11 +54,10 @@ GEII recognize NCBI entrez ID (recommended) or gene symbol as input and return o
 
 *B*: B-statistic or log-odds that the gene is differentially expressed[^2].
 
-### Reference	
-[^1]: Michael Love, Simon Anders and Wolfgang Huber. Beginner’s guide to using the DESeq2 package. May 13, 2014.
-[^2]: Gordon K. Smyth, Matthew Ritchie, Natalie Thorne, James Wettenhall and Wei Shi. limma: Linear Models for Microarray Data User’s Guide. 3 April 2010.
 
 ### Acknowledgements
 GEII database is funded by XXX. 
 
 
+[^1]: Michael Love, Simon Anders and Wolfgang Huber. Beginner’s guide to using the DESeq2 package. May 13, 2014.
+[^2]: Gordon K. Smyth, Matthew Ritchie, Natalie Thorne, James Wettenhall and Wei Shi. limma: Linear Models for Microarray Data User’s Guide. 3 April 2010.
