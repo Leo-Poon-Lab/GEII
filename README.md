@@ -1,5 +1,5 @@
 ## host Gene Expression under Influenza virus infection or Interferon stimulation (GEII)
-*Yi Cao, Haogao Gu, and Leo Poon*
+*Yi Cao, Haogao Gu, Leo Poon*
 
 
 ### Online version
