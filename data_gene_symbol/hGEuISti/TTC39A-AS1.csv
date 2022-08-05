@@ -1,0 +1,8 @@
+entrezID,gene_symbol,biotype,bioproject,res_design,host_type,stimulator,concentration,H.P.S,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,cell_type
+102724097,TTC39A-AS1,lncRNA,PRJNA474093,IFN-beta stimulation vs. mock stimulation,immortalized human hepatocytes PH5CH8,IFN-beta,N.A.,12,0.327281347486829,0.0763320726507368,3.56908588794946,0.0213870091802671,0.982936936369284,0.994998021163286,NA
+102724097,TTC39A-AS1,lncRNA,PRJNA565586,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,100U/ml,24,0.327785498261997,-1.79342202410621,3.20954669544717,-0.558777358388406,0.576313676595986,0.96308222060722,patient-derived GBM cell lines (PDGCLs)
+102724097,TTC39A-AS1,lncRNA,PRJNA667475,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,250U/ml,8,0,NA,NA,NA,NA,NA,A549
+102724097,TTC39A-AS1,lncRNA,PRJNA739760,INF-alpha2 stimulation (with DMSO) vs. mock stimulation (with DMSO),NA,IFN-alpha,1000U/ml,16,0,NA,NA,NA,NA,NA,A549
+102724097,TTC39A-AS1,lncRNA,PRJNA768480,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,N.A.,N.A.,0,NA,NA,NA,NA,NA,A549
+102724097,TTC39A-AS1,lncRNA,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,7.42478772866157,0.43651297368746,0.709828203028237,0.614955804552746,0.538583907662502,1,sigmoid colon organoid
+102724097,TTC39A-AS1,lncRNA,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,7.42478772866157,0.390145960439578,0.709869653885946,0.549602252052688,0.582592213840621,1,sigmoid colon organoid

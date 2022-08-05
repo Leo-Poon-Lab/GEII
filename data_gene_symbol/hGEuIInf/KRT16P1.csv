@@ -1,0 +1,19 @@
+entrezID,gene_symbol,probe_seq,biotype,bioproject,res_design,host_type,virus_strain,M.O.I,H.P.I,log2FoldChange,t,B,pvalue,padj,baseMean,lfcSE,stat
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,12,-0.725124168,NA,NA,0.042729788,0.172406804,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,18,-1.189155287,NA,NA,0.00095195,0.005190043,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,24,-1.953261021,NA,NA,5.07e-08,1.17e-06,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,3,0.391086157,NA,NA,0.287410198,0.556000371,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/California/04/09 (H1N1) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/California/04/09 (H1N1),5,6,-0.394375762,NA,NA,0.287298479,1,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,12,-0.247583298,NA,NA,0.591898859,0.727454055,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,18,-1.018613493,NA,NA,0.026522599,0.065839656,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,3,0.218947216,NA,NA,0.636025136,0.997855584,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Wyoming/03/03 (H3N2) vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Wyoming/03/03 (H3N2),5,6,0.713786251,NA,NA,0.123042297,0.491001767,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,12,-0.983097044,NA,NA,0.100384278,0.139256373,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,18,-1.343689957,NA,NA,0.024743304,0.03766218,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,3,0.034865074,NA,NA,0.938787544,1,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA349748,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human tracheobronchial epithelial cells (HTBE),A/Vietnam/1203/04 (H5N1) HALo,5,6,-0.558521467,NA,NA,0.319164998,0.433074417,NA,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA557257,A/Panama/2007/1999 (H3N2) vs. mock infection,lung explants,A/Panama/2007/1999 (H3N2),1E5 PFU/mL,24,NA,NA,NA,NA,NA,0,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA559077,A/swine/Zhejiang/04 (H3N2) vs. mock infection,A549,A/swine/Zhejiang/04 (H3N2),10,24,NA,NA,NA,NA,NA,0,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA559077,A/Hangzhou/1/2013 (H7N9) vs. mock infection,A549,A/Hangzhou/1/2013 (H7N9),10,24,NA,NA,NA,NA,NA,0,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA667475,A/WSN/1933 (H1N1) vs. mock infection,A549,A/WSN/1933 (H1N1),0.02,24,NA,NA,NA,NA,NA,0,NA,NA
+729252,KRT16P1,NA,transcribed_pseudogene,PRJNA795161,A/Oklahoma/447/2008 (H1N1) vs. mock infection,human bronchial epithelial cells (HBEC),A/Oklahoma/447/2008 (H1N1),N.A.,48,NA,NA,NA,NA,NA,0,NA,NA

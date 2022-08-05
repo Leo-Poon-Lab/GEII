@@ -1,0 +1,18 @@
+entrezID,gene_symbol,probe_seq,biotype,bioproject,res_design,host_type,virus_strain,M.O.I,H.P.I,log2FoldChange,t,B,pvalue,padj,baseMean,lfcSE,stat
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,12,1.199814524,NA,NA,0.023301172,0.049837629,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,18,0.363916737,NA,NA,0.492279123,0.605860798,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,3,-0.753907324,NA,NA,0.14777806,0.80887371,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/California/04/09 (H1N1) vs. mock infection,human monocyte-derived macrophages (MDM),A/California/04/09 (H1N1),2,6,-0.359792723,NA,NA,0.492032836,0.701946169,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,12,-0.741548467,NA,NA,0.261996375,0.34263284,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,18,-0.166837769,NA,NA,0.798857882,0.835329481,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,3,-0.883279526,NA,NA,0.1622345,0.621019294,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Wyoming/03/03 (H3N2) vs. mock infection,human monocyte-derived macrophages (MDM),A/Wyoming/03/03 (H3N2),2,6,-1.040157776,NA,NA,0.104061663,0.152178845,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,12,-0.204172255,NA,NA,0.794431897,0.842804288,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,18,-0.722546569,NA,NA,0.356989574,0.430098185,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,3,-0.884978931,NA,NA,0.250062969,1,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA382632,A/Vietnam/1203/04 (H5N1) HALo vs. mock infection,human monocyte-derived macrophages (MDM),A/Vietnam/1203/04 (H5N1) HALo,2,6,-1.629785938,NA,NA,0.037261699,0.080056903,NA,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA557257,A/Panama/2007/1999 (H3N2) vs. mock infection,lung explants,A/Panama/2007/1999 (H3N2),1E5 PFU/mL,24,-0.122928419262264,NA,NA,0.896268948904388,0.99776532938064,1.10627276073529,0.942876093061807,-0.130376006101797
+80215,RUNX1-IT1,NA,lncRNA,PRJNA559077,A/swine/Zhejiang/04 (H3N2) vs. mock infection,A549,A/swine/Zhejiang/04 (H3N2),10,24,2.71091848495448,NA,NA,0.423047121560639,0.534836225445103,1.12710572574442,3.38380076056535,0.801146012066488
+80215,RUNX1-IT1,NA,lncRNA,PRJNA559077,A/Hangzhou/1/2013 (H7N9) vs. mock infection,A549,A/Hangzhou/1/2013 (H7N9),10,24,0.0296081518375473,NA,NA,0.993371573819218,1,1.12710572574442,3.56398560462327,0.00830759579924763
+80215,RUNX1-IT1,NA,lncRNA,PRJNA667475,A/WSN/1933 (H1N1) vs. mock infection,A549,A/WSN/1933 (H1N1),0.02,24,NA,NA,NA,NA,NA,0,NA,NA
+80215,RUNX1-IT1,NA,lncRNA,PRJNA795161,A/Oklahoma/447/2008 (H1N1) vs. mock infection,human bronchial epithelial cells (HBEC),A/Oklahoma/447/2008 (H1N1),N.A.,48,NA,NA,NA,NA,NA,0,NA,NA

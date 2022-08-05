@@ -1,0 +1,8 @@
+entrezID,gene_symbol,biotype,bioproject,res_design,host_type,stimulator,concentration,H.P.S,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,cell_type
+541468,LURAP1,protein_coding,PRJNA474093,IFN-beta stimulation vs. mock stimulation,immortalized human hepatocytes PH5CH8,IFN-beta,N.A.,12,4.06802101704635,0.536934793231728,0.977953944464601,0.549038936108267,0.582978729634662,0.961473650102656,NA
+541468,LURAP1,protein_coding,PRJNA565586,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,100U/ml,24,31.41083995586,-0.362392558727754,0.336590598074479,-1.07665680741197,0.281633615358651,0.834380177493715,patient-derived GBM cell lines (PDGCLs)
+541468,LURAP1,protein_coding,PRJNA667475,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,250U/ml,8,0.859360716159294,3.23425029795638,2.74536758725682,1.17807550179029,0.238766507632905,0.615967022024437,A549
+541468,LURAP1,protein_coding,PRJNA739760,INF-alpha2 stimulation (with DMSO) vs. mock stimulation (with DMSO),NA,IFN-alpha,1000U/ml,16,0,NA,NA,NA,NA,NA,A549
+541468,LURAP1,protein_coding,PRJNA768480,IFN-gamma stimulation vs. mock stimulation,NA,IFN-gamma,N.A.,N.A.,0,NA,NA,NA,NA,NA,A549
+541468,LURAP1,protein_coding,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,1.10473784314668,0.0871720722323327,1.7065040616,0.0510822530071221,0.959259977577089,1,sigmoid colon organoid
+541468,LURAP1,protein_coding,PRJNA788896,IFN-beta stimulation vs. mock stimulation,NA,IFN-beta,N.A.,N.A.,1.10473784314668,-0.949967161064842,1.85112355540676,-0.513184092055973,0.607822552625126,1,sigmoid colon organoid
