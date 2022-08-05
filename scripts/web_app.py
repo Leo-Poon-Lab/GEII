@@ -81,7 +81,7 @@ st.dataframe(df_selected_data.astype(str))
 
 st.markdown("""
 ---
-**Made by**: *Yi Cao, Haogao Gu, Leo Poon* from School of Public Health, The University of Hong Kong.
+**Made by**: *Yi Cao, [Haogao Gu](https://github.com/Koohoko), [Leo Poon](https://sph.hku.hk/en/Biography/Poon-Lit-Man-Leo)* from School of Public Health, The University of Hong Kong.
 
 **Citation**: XXX
 """)
