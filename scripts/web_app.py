@@ -51,6 +51,7 @@ if(len(datastats)==0):
     st.header("No data available for this gene.")
 else:
     st.sidebar.title('Filters')
+    st.sidebar.markdown("[Glossary for filters](https://github.com/Leo-Poon-Lab/GEII#usage-and-glossary-information)")
     if selected_exp_type == "Infection":
         # Sidebar - H.P.I selection
         sorted_hpi = sorted(datastats['H.P.I'].unique())
@@ -62,7 +63,7 @@ else:
 
         # Sidebar - Virus selection
         sorted_virus = sorted(datastats['virus_strain'].unique())
-        selected_virus = st.sidebar.multiselect('virus_strain', sorted_virus, sorted_virus)
+        selected_virus = st.sidebar.multiselect('Virus Strain', sorted_virus, sorted_virus)
 
         # Filtering data
         df_selected_data = datastats[(datastats['virus_strain'].isin(selected_virus)) & (datastats['H.P.I'].isin(selected_hpi)) & (datastats['M.O.I'].isin(selected_moi))]
