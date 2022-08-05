@@ -1,8 +1,9 @@
+![GEII](https://github.com/Leo-Poon-Lab/GEII/raw/main/logo.png)
 ## host Gene Expression under Influenza virus infection or Interferon stimulation (GEII)
 *Yi Cao, Haogao Gu, Leo Poon*
 
 
-### Online version
+### Online version (by Streamlit)
 [Link](https://leo-poon-lab-geii-scriptsweb-app-pk8r5m.streamlitapp.com/)
 
 ### Citation
