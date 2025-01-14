@@ -4,7 +4,7 @@
 
 
 ### Online version (by Streamlit)
-[Link](https://leo-poon-lab-geii-scriptsweb-app-pk8r5m.streamlitapp.com/)
+[Link to access](https://leo-poon-lab-geii-scriptsweb-app-pk8r5m.streamlit.app)
 
 ### Citation
 [Paper](https://pubmed.ncbi.nlm.nih.gov/39777915/): An interferon-stimulated long non-coding RNA USP30-AS1 as an immune modulator in influenza A virus infection. PLOS PATHOGENS, e1012854. (2025) 
