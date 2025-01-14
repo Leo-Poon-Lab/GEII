@@ -1,13 +1,13 @@
 ![GEII](https://github.com/Leo-Poon-Lab/GEII/raw/main/logo.png)
 ## host Gene Expression under Influenza virus infection or Interferon stimulation (GEII)
-*Yi Cao, Haogao Gu, Leo Poon*
+*Yi Cao, Alex WH Chin, Haogao Gu, Mengting Li, Yuner Gu, Sylvia PN Lau, Kenrie PY Hui, Michael CW Chan, Leo LM Poon.*
 
 
 ### Online version (by Streamlit)
 [Link](https://leo-poon-lab-geii-scriptsweb-app-pk8r5m.streamlitapp.com/)
 
 ### Citation
-XXX
+An interferon-stimulated long non-coding RNA USP30-AS1 as an immune modulator in influenza A virus infection. PLOS PATHOGENS, e1012854. (2025) [paper](https://pubmed.ncbi.nlm.nih.gov/39777915/)
 
 ### About
 Host Gene Expression under Influenza virus infection or Interferon stimulation (GEII) database is a user-friendly tool for study host gene expression during diverse subtypes of influenza virus infection or interferon stimulation across multiple cell types. GEII integrates high throughput datasets generated from RNA-seq and microarray from public databases such SRA, GEO and IRD. 
@@ -54,10 +54,6 @@ GEII recognize NCBI entrez ID (recommended) or gene symbol as input and return o
 ***t***: Moderated t-statistic[^2].
 
 ***B***: B-statistic or log-odds that the gene is differentially expressed[^2].
-
-
-### Acknowledgements
-GEII database is funded by XXX. 
 
 
 [^1]: Michael Love, Simon Anders and Wolfgang Huber. Beginner’s guide to using the DESeq2 package. May 13, 2014.
